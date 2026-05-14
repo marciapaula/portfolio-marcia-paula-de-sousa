@@ -43,4 +43,4 @@ O modelo e seus pesos pré-treinados foram exportados publicamente.
 4. Para análise de software e rede neural, o repositório conta com os esquemas JSON de metadados da estrutura construída no modelo.
 
 ---
-[⬅️ Voltar ao início](https://github.com/profdiegocarvalho/portfolio-arthur-correia-carvalho)
+[⬅️ Voltar ao início](https://github.com/marciapaula/portfolio-marcia-paula-de-sousa)
