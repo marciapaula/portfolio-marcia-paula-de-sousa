@@ -44,4 +44,4 @@ O projeto foi estruturado com foco em Clean Code (Alta Coesão e Baixo Acoplamen
 *Figura 3: Representação da arquitetura isolando os componentes UI (esquerda) do Core engine do QR-Code-Styling (direita).*
 
 ---
-[Voltar ao início](#) <!-- Substitua pelo link do seu portfólio -->
+[⬅️ Voltar ao início](https://github.com/marciapaula/portfolio-marcia-paula-de-sousa)
