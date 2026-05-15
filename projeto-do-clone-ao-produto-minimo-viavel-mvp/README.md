@@ -40,7 +40,7 @@ Figura 2: Opções de costumização.
 4. Execute o servidor de desenvolvimento: `npm run dev`.
 
 ---
-![Dashboard QR Bridge](./qr-bridge/img/img-3.png)
+![Dashboard QR Bridge](./qr-bridge/img/img-4.png)
 
 Figura 3: Representação da sincronização de histórico e templates salvos na nuvem pelo Firebase Auth.
 
