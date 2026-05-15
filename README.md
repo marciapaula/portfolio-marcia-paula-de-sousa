@@ -7,7 +7,7 @@
   <a href="https://github.com/marciapaula" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/márcia-paula" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:marciapaulasousa12@gmail.com">
