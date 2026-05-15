@@ -21,7 +21,7 @@
 <br/>
 
 ## 👨‍💻 Sobre Mim
-Atualmente cursando o **4º semestre** de **Ciências da Computação** na **Universidade Cidade de São Paulo (UNICID)**. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em **Desenvolvimento Front-end e Inteligência Artificial**.
+Atualmente cursando **Ciências da Computação** na **Universidade Cidade de São Paulo (UNICID)**. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em **Desenvolvimento Front-end e Inteligência Artificial**.
 
 * ⚡ **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker, HTML, CSS, JavaScript, e MySQL.
 * 🤝 **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
