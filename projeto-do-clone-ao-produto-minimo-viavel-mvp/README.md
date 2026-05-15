@@ -21,24 +21,26 @@ Figura 1: Interface principal integrando os painéis de customização e preview
 - **Animações:** Motion (Transitions & Micro-interactions)
 - **Internacionalização:** i18next (Suporte multi-idioma)
 
-## 📊 Resultados e Funcionalidades
+## 📊 Resultados e Funcionalidades / Costumização
 O projeto foi estruturado para garantir máxima flexibilidade e uma experiência de usuário premium:
 - **Visualização Dinâmica:** Preview em tempo real à medida que as configurações visuais do QR Code são alteradas.
 - **Personalização Granular:** Possibilidade de modificar padrões (pontos, cantos quadrados/arredondados), customizar gradientes, adicionar logos centrais e alterar proporções.
 - **Integração com Nuvem (Histórico):** Salve e recupere predefinições do QR Code integradas de forma segura via contas do Google Authentication.
 - **Exportação e Portabilidade:** Gere a configuração em um arquivo JSON exportável ou baixe diretamente as imagens do QR Code com opções dinâmicas.
 
-![alt text](./image/image2.png)
+---
+![Costumização](./qr-bridge/img/img-2.png)
 
-Figura 2: Análise das opções visuais, configurações do gerador e painel de histórico.
+Figura 2: Opções de costumização.
 
-## 🔧 Como Executar
+## 🔧 Como Executar / Login com conta de e-mail Google
 1. Clone o repositório.
 2. Configure as credenciais do Firebase no arquivo de configuração do projeto ou em um arquivo `.env`.
 3. Instale as dependências: `npm install`.
 4. Execute o servidor de desenvolvimento: `npm run dev`.
 
-![alt text](./image/image3.png)
+---
+![Dashboard QR Bridge](./qr-bridge/img/img-3.png)
 
 Figura 3: Representação da sincronização de histórico e templates salvos na nuvem pelo Firebase Auth.
 
