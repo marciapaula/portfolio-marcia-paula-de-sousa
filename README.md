@@ -25,7 +25,7 @@ Atualmente cursando **Ciência da Computação** na **Universidade Cidade de Sã
 
 * ⚡ **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker, HTML, CSS, JavaScript, e MySQL.
 * 🤝 **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* 🎯 **Experiência/Projetos Relevantes:** Atuei como Desenvolvedora Front-end através de projetos acadêmicos e freelancers (Lista de Tarefas, Comparador de Preços), além do desenvolvimento de soluções com foco em Inteligência Artificial.
+* 🎯 **Experiência/Projetos Relevantes:** Atuei como Desenvolvedora Front-end através de projetos acadêmicos (Lista de Tarefas, Comparador de Preços), além do desenvolvimento de soluções com foco em Inteligência Artificial.
 
 <br/>
 
