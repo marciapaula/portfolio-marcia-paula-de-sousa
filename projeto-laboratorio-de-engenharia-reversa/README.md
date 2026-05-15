@@ -13,7 +13,7 @@ O **QR Code Styling Clone** é um WebApp utilitário focado na geração e perso
 Desenvolvido para oferecer controle total sobre a construção visual do QR Code, o dashboard processa alterações de estado em tempo real, permitindo aos usuários configurar desde a espessura geométrica dos pontos (Dots) até regras de preenchimento dos cantos geométricos, gerando saídas de altíssima fidelidade prontas para impressão ou distribuição digital.
 
 ---
-![Dashboard QR Code Styling](.projeto-laboratorio-de-engenharia-reversa/qr-code-styling-clone/img/img-1.png)
+![Dashboard QR Code Styling](./img/img-1.png)
 *Figura 1: Interface principal em duas colunas integrando accordions de configuração geométrica e visualizador de QR Code em tempo real.*
 
 ## 🚀 Tecnologias Utilizadas
