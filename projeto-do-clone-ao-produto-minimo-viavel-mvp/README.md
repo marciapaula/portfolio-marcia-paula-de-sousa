@@ -8,7 +8,7 @@ O **QR Bridge** é uma plataforma avançada e interativa para a criação, perso
 Desenvolvido para atender tanto necessidades do dia a dia quanto demandas profissionais de branding, o dashboard processa renderizações em tempo real utilizando a robusta biblioteca `qr-code-styling`, garantindo alta definição em downloads e mantendo um histórico em nuvem das suas melhores criações.
 
 ---
-![Dashboard QR Bridge](./qr-bridge/img/img.png)
+![Dashboard QR Bridge](./qr-bridge/img/img1.png)
 
 Figura 1: Interface principal integrando os painéis de customização e preview em tempo real.
 
