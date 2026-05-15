@@ -1,4 +1,4 @@
-<img width="1817" height="786" alt="Captura de tela 2026-05-14 225411" src="https://github.com/user-attachments/assets/e8eb6b61-0829-4782-8a37-0a2fcf8313d7" /># 🔳 QR Code Styling: Customizable Generator & Library Clone
+🔳 QR Code Styling: Customizable Generator & Library Clone
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@ O projeto foi estruturado com foco em Clean Code (Alta Coesão e Baixo Acoplamen
 * **Fidelidade Estética Utilitária:** Componentes UI que simulam o comportamento bruto da web antiga, criando interfaces rápidas, de baixo processamento e livres de overhead de design systems pesados.
 * **Motor Múltiplo de Exportação:** Downloads otimizados em densidade de pixels (PNG, JPEG, WEBP, SVG) e serialização estruturada, com a capacidade de extrair as definições via formato JSON.
 
-![Visualização dos Painéis de Cor e Gradientes](./image/image2.png)
+![Visualização dos Painéis de Cor e Gradientes](./qr-code-styling-clone/img/img-2.png)
 *Figura 2: Análise técnica dos componentes de input integrados para transição entre cores puras e propriedades de gradiente.*
 
 ## 🔧 Como Executar
@@ -40,7 +40,7 @@ O projeto foi estruturado com foco em Clean Code (Alta Coesão e Baixo Acoplamen
 4. Inicie o servidor de desenvolvimento ultra-rápido: `npm run dev`
 5. Acesse na porta disponibilizada no terminal (normalmente `http://localhost:5173/` ou `http://localhost:3000/`)
 
-![Demonstração do Fluxo de Arquitetura](./image/image3.png)
+![Demonstração do Fluxo de Arquitetura](./qr-code-styling-clone/img/img-4.png)
 *Figura 3: Representação da arquitetura isolando os componentes UI (esquerda) do Core engine do QR-Code-Styling (direita).*
 
 ---
