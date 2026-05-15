@@ -44,4 +44,5 @@ Figura 2: Opções de costumização.
 
 Figura 3: Representação da sincronização de histórico e templates salvos na nuvem pelo Firebase Auth.
 
-[Voltar ao início](https://github.com/marciapaula/portfolio-marcia-paula-de-sousa)
+---
+[⬅️ Voltar ao início](https://github.com/marciapaula/portfolio-marcia-paula-de-sousa)
