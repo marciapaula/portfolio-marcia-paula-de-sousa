@@ -2,74 +2,73 @@
 
 <div align="center">
   
-  ### 📫 Conecte-se comigo!
-  
+  ### 📫 Contato & Redes Sociais
   <a href="https://github.com/marciapaula" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="www.linkedin.com/in/márcia-paula" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:marciapaulasousa12@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:marciapaulasousa12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="./Curriculo_Marcia_Paula.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Curr%C3%ADculo-%23000000?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo">
   </a>
 
 </div>
 
 <br/>
 
-## 👩‍💻 Sobre Mim
-> Atualmente no **4º semestre** de **Ciências da Computação** na **Universidade Cidade de São Paulo (UNICID)**. Sou apaixonada por desenvolvimento web e tenho grande interesse em criar interfaces intuitivas e funcionais, com foco em **Desenvolvimento Front-end**.
+## 👨‍💻 Sobre Mim
+Atualmente cursando o **4º semestre** de **Ciências da Computação** na **Universidade Cidade de São Paulo (UNICID)**. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em **Desenvolvimento Front-end e Inteligência Artificial**.
 
-* ⚡ **Habilidades Técnicas:** HTML, CSS, JavaScript, Java, Banco de Dados (MySQL) e Modelagem de Dados.
+* ⚡ **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker, HTML, CSS, JavaScript, e MySQL.
 * 🤝 **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* 🎯 **Experiência:** Desenvolvedora Front-end através de projetos acadêmicos e freelancers, com projetos como Lista de Tarefas e Comparador de Preços.
+* 🎯 **Experiência/Projetos Relevantes:** Atuei como Desenvolvedora Front-end através de projetos acadêmicos e freelancers (Lista de Tarefas, Comparador de Preços), além do desenvolvimento de soluções com foco em Inteligência Artificial.
 
 <br/>
 
-## 🛠️ Minhas Ferramentas Favoritas
+## 🛠 Minhas Ferramentas Favoritas
 
 <div align="center">
   <h4>💻 Linguagens e Tecnologias</h4>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   
   <h4>🗄️ Banco de Dados</h4>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <h4>🤖 Inteligência Artificial & Ciência de Dados</h4>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </div>
 
 <br/>
 
 ## 📂 Portfólio de Projetos
 
-### 💻 Projetos Web - Front-end
+### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Laboratório de Classificação Visual** | Treinamento de modelo de visão computacional focado na identificação de vieses algorítmicos e análise de impactos sociais. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
+| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto](./projeto-laboratorio-de-engenharia-reversa/) |
+| **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
 
-| 🏆 Projeto | 📝 Descrição | Tecnologias |
+### 💻 Desenvolvimento Web / Front-end
+| Projeto | Descrição | Tecnologias |
 | :--- | :--- | :---: |
 | **Lista de Tarefas** | Site com interface fácil de usar para adicionar, concluir e deletar tarefas. Ajuda a manter atividades organizadas. | HTML, CSS, JavaScript |
 | **Comparador de Preços** | Sistema que permite comparar preços de itens, com busca facilitada e gráficos de preços para encontrar as melhores ofertas. | HTML, CSS, JavaScript |
 
-*(Nota: Você pode adicionar os links do GitHub para estes projetos acima na coluna de links!)*
-
 <br/>
 
-## 🏗️ Estrutura do Repositório
-
+## 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
 
-```text
-📦 Repositório
- ┣ 📜 README.md               (Arquivo de apresentação principal)
- ┣ 📜 Curriculo_Marcia_Paula.pdf (Seu currículo em PDF)
- ┗ 📂 projetos/               (Pastas com os códigos-fontes dos seus projetos)
-```
-
----
-<div align="center">
-  <small>Desenvolvido por Márcia Paula de Sousa.</small>
-</div>
+- `root/`: Arquivo de apresentação principal.
+- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
